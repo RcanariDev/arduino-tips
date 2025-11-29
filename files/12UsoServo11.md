@@ -64,6 +64,8 @@ void loop() {
 <br />
 
 
+- Otro código:
+
 ```cpp
 #include <LiquidCrystal_I2C.h>
 #include <Servo.h>
